@@ -1,4 +1,8 @@
 venv/
+venv-linux/
+venv-windows/
+dist/
+build/
 download_cache/
 *.json
 *.yaml
